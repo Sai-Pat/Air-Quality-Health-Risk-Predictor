@@ -116,7 +116,6 @@ air-quality-predictor/
 ├── app.py                # Main Streamlit app
 ├── requirements.txt     # Dependencies
 ├── README.md            # Project documentation
-└── dataset/             # (Optional) dataset file
 ```
 
 ---
@@ -128,7 +127,8 @@ air-quality-predictor/
 * Animated risk indicators
 * Health advice section
 
-*(Add screenshots here for better presentation)*
+<img width="1919" height="852" alt="image" src="https://github.com/user-attachments/assets/dffd0b5d-1753-4cda-a7e3-79f6bf974ffc" />
+
 
 ---
 
@@ -187,7 +187,7 @@ Participants will build their own AQI predictor web app.
 
 ## 🔗 GitHub Repository
 
-(Add your repo link here)
+https://github.com/Sai-Pat/Air-Quality-Health-Risk-Predictor
 
 ---
 
