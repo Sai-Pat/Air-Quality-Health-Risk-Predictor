@@ -1,5 +1,3 @@
-# Air-Quality-Health-Risk-Predictor
-Here’s a **clean, human-sounding, workshop-ready GitHub README** you can copy-paste directly. It avoids AI-ish tone and reads like a real project submission 👇
 
 ---
 
